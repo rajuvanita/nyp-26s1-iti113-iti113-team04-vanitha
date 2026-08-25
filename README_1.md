@@ -36,7 +36,9 @@ data via a fine-grained scan rather than a fixed 0.50 default.
 | File | Purpose |
 |---|---|
 | `inference.py` | Standalone SageMaker inference script (`model_fn` / `input_fn` / `predict_fn` / `output_fn`). This is the actual artifact notebooks 6 and 7 test against — not a notebook-level reimplementation. |
-| `mlflow_utils.py` | Standalone SageMaker utility script. It is an ML experiment-tracking and AWS integration utility that supports the project. |
+| `mlflow_utils.py` | Standalone SageMaker utility script.
+It is an ML experiment-tracking and AWS integration utility that supports the project.
+
 
 ## Architecture Notes
 
