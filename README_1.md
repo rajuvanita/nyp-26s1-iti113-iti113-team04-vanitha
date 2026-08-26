@@ -16,6 +16,9 @@ approximately 1:173). This imbalance governs every design decision in this track
 accuracy, is the primary evaluation metric, and decision thresholds are selected from validation
 data via a fine-grained scan rather than a fixed 0.50 default.
 
+## Data
+Dataset Repository Directory: Kaggle Credit Card Fraud Detection (https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+
 ## Repository Structure
 
 ### Core Notebooks (run in this order)
