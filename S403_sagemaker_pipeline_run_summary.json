@@ -1,0 +1,28 @@
+{
+  "pipeline_execution_arn": "arn:aws:sagemaker:ap-southeast-1:044528205969:pipeline/iti113-team04-credit-card-fraud-detection/execution/3lgs99g6ukv7",
+  "training_job_name": "pipelines-3lgs99g6ukv7-Team04-TrainModel-mxI9wjdRJ5",
+  "training_job_arn": "arn:aws:sagemaker:ap-southeast-1:044528205969:training-job/pipelines-3lgs99g6ukv7-Team04-TrainModel-mxI9wjdRJ5",
+  "model_artifact_s3_uri": "s3://sagemaker-ap-southeast-1-044528205969/pipelines-3lgs99g6ukv7-Team04-TrainModel-mxI9wjdRJ5/output/model.tar.gz",
+  "metrics": {
+    "test_fpr": 0.0031429999507963657,
+    "test_auc_roc": 0.9943000078201294,
+    "test_fnr": 0.29836800694465637,
+    "test_precision": 0.46380001306533813,
+    "test_recall": 0.7016000151634216,
+    "test_pr_auc": 0.4235000014305115,
+    "test_f1": 0.5583999752998352
+  },
+  "hyperparameters": {
+    "random-state": "42",
+    "sagemaker_container_log_level": "20",
+    "sagemaker_program": "\"train.py\"",
+    "sagemaker_region": "\"ap-southeast-1\"",
+    "sagemaker_submit_directory": "\"s3://sagemaker-ap-southeast-1-044528205969/iti113-team04-s403-train-2026-08-26-09-32-54-365/source/sourcedir.tar.gz\""
+  },
+  "team_id": "team04",
+  "student_id": "s403",
+  "semester": "26S1",
+  "mlflow_app_arn": "arn:aws:sagemaker:ap-southeast-1:044528205969:mlflow-app/app-ANFQ3RACFV2G",
+  "mlflow_experiment": "ITI113/team04/Experiment-01",
+  "tracking_backend": "sagemaker_mlflow_app"
+}
