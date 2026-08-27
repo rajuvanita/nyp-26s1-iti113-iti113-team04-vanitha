@@ -18,3 +18,7 @@ This folder contains the following 11 files:
 11	S403_video_on_how_to_use_gradio_ui.mp4		How-to-use-Gradio-UI video
 
 To use file, please remove prefix "S403_".
+
+CSV files to be uploaded from the below link
+S403_candidate_a.csv - https://drive.google.com/file/d/1w5MH6NS7_xo3u17Y72WoePKQdO_qL9Vp/view?usp=drive_link 
+S403_candidate_b.csv - https://drive.google.com/file/d/11OwIJ2mZq0YLkcOTsIomg5-uZfGdf657/view?usp=drive_link 
